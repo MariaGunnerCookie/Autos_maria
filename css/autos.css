@@ -1,0 +1,30 @@
+#autos h3, h4 {
+    text-align: center;
+}
+
+#autos .contenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#autos article {
+    margin: 15px;
+}
+
+#autos img {
+    width: 100%;
+    max-width: 280px;
+}
+
+.sociales{
+	width: 100%;
+	text-align: center;
+	font-size: 280px;
+
+}
+
+.sociales a{
+	color: #fff:
+	text-decoration: none;
+}
