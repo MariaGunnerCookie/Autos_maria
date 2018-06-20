@@ -99,6 +99,12 @@ font-size: 32px;
 	margin-bottom: 20px;
 }
 
+.footer-copy-redes{
+	width: 100%;
+    background: #000;
+    border-top: 3px solid #fff;
+}
+
 .main-copy-redes{
 	width: 98%;
 	max-width: 1000px;
@@ -123,8 +129,6 @@ font-size: 32px;
 	justify-content: space-between;
 
 }
-
-
 
 .main-copy-redes .footer-redes{
   display: inline-block;
